@@ -1,0 +1,13 @@
+Dataset: bac_vhac.csv
+
+Source: J.D. Caughlin (1983). "Correlation of Postmortem Blood and Vitreous Humor
+Alcohol Concentration," Canadian Society of Forensic Science Journal, Vol. 16, #2, pp. 61-68
+
+Description:
+Blood and Vitreous Humor levels (mg%) in 43 cadavers. Author fit linear regression
+with Y=BAC and X=VHAC
+
+Variable Names:
+subjectID    (1-43
+BAC
+VHAC

@@ -1,0 +1,17 @@
+Dataset:  breathtests.csv
+
+Source: R. Poon, B. T. Hodgson, I. Hinberg, C. Rowatt (1987). "Evaluation of
+Three Pocket-Size Breath Alcohol Analyzers," Canadian Society of Forensic Science Journal,
+Vol. 20, #1, pp. 19-27
+
+Description: 
+60 breath alcohol analyzer readings(g/dL) based on the Breathalyzer machine (gold standard)
+and Intoxilizer (handheld) and Alco-Sensor (handheld). Authors fit linear regression relating
+each handheld device as (Y) and Breathalyzer as X. Also computed sensitivities and 
+specificities of the devices relative to gold standard with 0.08 as the negative/positive cut-off.
+Data approximated from Figures 7 and 8.
+
+Variable names
+breath
+intox
+alcoSens

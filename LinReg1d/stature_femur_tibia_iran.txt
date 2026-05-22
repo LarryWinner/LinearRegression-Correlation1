@@ -1,0 +1,16 @@
+Dataset: stature_femur_tibia_iran.csv
+
+Source: M. Razemi, V. Shokri, A. Ghanbari, Z. Salehi, K. A. Niknami (2019).
+"Stature Estimation in Iranian Population from X-ray Measurement of Femur and Tibia Bones,"
+Journal of Forensic Radiology and Imaging, Vol. 19, 
+https://doi.org/10.1016/j.jofri.2019.100343
+
+Description:
+Heights, femur, and tibia lengths for 166 Iranian adults (74 females and 92 males)
+between ages 20-40. Data approximated from figures in paper.
+
+Variable Names:
+gender  (1=F, 2=M)
+tibia (in centimeters)
+femur ( "       "    )
+height ("       "    )

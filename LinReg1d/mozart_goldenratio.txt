@@ -1,0 +1,19 @@
+Dataset: mozart_goldenratio.csv
+
+Sources: 
+N. Broder (1960). "Mozart: Sonatas and Fantasies for the Piano." Revised Ed. 
+Theodore Presser,  Bryn Mahr, PA.
+
+J.F. Putz (1995). "The Golden Section and the Piano Sonatas of Mozart,"
+Mathematics Magazine, Vol. 6, #4, pp. 275-282.
+
+Description: Empirical study of ratio of length Development and Recapulation (b)
+to the sum of Exposition and Development and Recapitulations (a+b) for 29
+of Mozart's Sonatas. Hypothesis is that b/(a+b) can be approximated by Golden Ratio. 
+Letting x=a, 1-x=b, phi=a/b=b/(a+b)=x/(1-x)=(1-x)/1 solves phi = (sqrt(5)-1)/2.
+
+Variable Names:
+Kochel (cataloguing index)
+expos_a   (Exposition, a)
+devRec_b  (Development and Recapitulations)
+

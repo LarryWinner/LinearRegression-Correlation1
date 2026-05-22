@@ -1,0 +1,15 @@
+Dataset:  autoenergyconsumption.csv
+
+Source: G. Golkarnarenji, M. Naebe, K. Badii, A.S. Milani, R.N. Jazar,
+H. Khayyam (2018). "Support Vector Regression Modelling and Optimization
+of Energy Consumption in Carbon Fiber Production Line," Computers and
+Chemical Engineering, Vol. 109, pp. 276-288.
+
+Description: Results of an experiment relating 3 factors to energy
+consumption in cars.
+Y = Energy Consumption, in MJ  (energyCon)
+X1 = Temperature in celsius     (tempC)
+Fiber space velicity in miles/hour   (fsv)
+Stretching ratio, in percent     (stretch)
+
+

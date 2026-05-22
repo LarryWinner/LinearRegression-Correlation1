@@ -1,0 +1,23 @@
+Dataset:  chinese_herbs.csv
+
+Source: H. Liu, N. Qiu, H. Ding, R. Yao (2008). "Polyphenols Contents and
+Antioxidant Capacity of 68 Chinese Herbals Suitable for Medical or Food Uses,"
+Food Research International, Vol. 41, pp. 363-370.
+
+Description: Means and SDs of 3 samples for each of 68 chinese herbs
+in terms of: 
+Total Phenolic content (mg GAE/g dw)
+Flavonoids content (mg RE/g dw)
+FRAP value (Fe(II)mmol/g dw)
+DPPH scavenging capacity (%)
+
+Variable names
+Herb
+TPC_M  /* Mean Total Phenolic content */
+TPC_SD /* SD    "        "      "     */
+Flav_M
+Flav_SD
+FRAP_M
+FRAP_SD
+DPPH_M
+DPPH_SD

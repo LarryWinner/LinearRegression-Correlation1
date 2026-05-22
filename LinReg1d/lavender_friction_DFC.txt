@@ -1,0 +1,20 @@
+Dataset:  lavender_friction_DFC.csv
+
+Source: S.M. Shafei, A. Nourmohamadid-Moghadami, S. Kamgar (2017).
+"Experimental Analysis and Modeling of Frictional Behavior of Lavender
+Flowers (Lavandula stoechas L.)," Journal of Applied Research on
+Medicinal and Aromatic Plants, Vol. 4, pp. 5-11.
+
+Description: Dynamic friction coefficients (DFC) for lavender flowers
+across 5 surfaces (1=glass, 2=aluminum, 3=plywood, 4=galvanized steel,
+5=rubber), 5 moisture contents (4.9, 10.2, 14.8, 18.7, 22.4 d.b.%), and
+5 sliding velocities (0.75, 5.3, 8.1, 10.9, 13.7 cm/s) 
+
+Data generated to match cell means and SDs, n=5 reps/treatment
+Authors fit 3-Way ANOVA and multiple regression models (w/in surface)
+
+Variable Names:
+surface
+moisture
+slidVel
+DFC

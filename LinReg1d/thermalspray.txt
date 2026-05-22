@@ -1,0 +1,22 @@
+Dataset: thermalspray.csv
+
+Source: J. Day, X. Huang, N.L. Richards (2005). "Examination of a 
+Grit-Blasting Process for Thermal Spraying Using Statistical Methods,"
+Journal of Thermal Spray Technology, Vol. 14, #4, pp. 471-479.
+
+Description: Results of an experiment relating 5 process variables
+to 5 outcome variables.
+
+Responses (variable names):
+Surface Roughness    (rough)
+Maximum distortion   (maxDist)
+Surface Grit Contamination    (contam)
+Overall evaluation criterion (OEC)
+Maximum bond strength, in 1000s of psi   (maxBond)
+
+Predictors:
+Grit Size number  (gritSz)
+Blast Pressure, in psi   (blastPres)
+Number of passes   (passNum)
+Working distance, in inches  (workDist)
+Angle, in degrees   (angle)

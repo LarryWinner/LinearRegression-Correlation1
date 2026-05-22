@@ -1,0 +1,26 @@
+Dataset:  forklift_acoustic.csv
+
+Source: E. Zhang, Q. Zhang, J. Xiao, L. Hou, T. Guo (2018). "Acoustic 
+Comfort Evaluation Modeling and Improvement Test of a Forklift Based on
+Rank Score Comparison and Multiple Linear Regression," Applied Acoustics,
+Vol. 135, pp. 29-36.
+
+
+Description: Multiple Regression of 50 noise samples of a forklift.
+Response was the mean annoyance score for the sample. Predictors:
+Linear sound pressure level, A-weighted Sound Pressure Level, loudness,
+sharpness, roughness, fluctuation, totality, articulation index, and
+impulsiveness.
+
+Variable Names:
+caseNum
+LSPL
+ASPL
+loud
+sharp
+rough
+fluc
+tonal
+AI
+impulsive
+annoyance

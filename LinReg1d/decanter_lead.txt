@@ -1,0 +1,9 @@
+Dataset: decanter_lead.csv
+
+Source: E. Guadagnino, L. Gramiccioni, M. Denaro, M. Baldini (1998).
+"Co-operative Study on the Release of Lead from Crystalware,"
+Packaging Technology and Science, Vol. 11, pp.45-57.
+
+Description: Experiment relating the amount of lead migrating into
+brandy in unusded decanters (leadMig) as a function of the number of days
+in the decanter (days). Each observation is average of 5 decanters.

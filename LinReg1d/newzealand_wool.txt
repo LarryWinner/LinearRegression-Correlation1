@@ -1,0 +1,18 @@
+Dataset: newzealand_wool.csv
+
+Source: S. Tandon (2015). "Inter-Fibre Cohesion Behaviour of New Zealand
+Wools," Research Journal of Textile and Apparel, Vol. 19, #3, pp. 16-22.
+
+Description: Experiment relating sliver strength of wools (tenacity and
+specific energy-t-break) to: core bulk, barbe, mean fibre diameter,
+and medullation for 21 wool types.
+
+Variable Names:
+woolID
+woolType
+coreBulk   (cm^3/g)
+barbe      (mm)
+fbrDiam    (mu m)
+medulla    (%)
+gst        (sliver tenacity, in gf/ktex)
+gse        (sliver specific energy-to-break, in gf.cm/ktex)

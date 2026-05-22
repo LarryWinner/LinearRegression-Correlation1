@@ -1,0 +1,16 @@
+Dataset:  icecreamcone3.csv
+
+Source: V.T. Huang, J.B. Lindamood, P.M.T. Hansen (1988). "Ice-Cream Cone
+Baking: Dependence of Baking Performance on Flour and Batter Viscosity,"
+Food Hydrocolloids, Vol. 2, #6, pp. 451-466.
+
+Description: Model Relating Viscosity to moisture, protein, and
+ash contents in flour used in baking ice cream cones.
+Model: V = b0 + b1M + b2P + b3A
+
+Variable Names: 
+codeNum    (code number, n=39)
+moisture    (%)
+protein     (%)
+ash         (%)
+viscosity   (degree MacMichale)

@@ -1,0 +1,30 @@
+Dataset: pesticide.csv
+
+Source: K. Amirat, N. Ziani, D. Messadi (2016). "Chemometric Modeling to Predict Retention Times
+for a Large Set of Pesticides or Toxicants Using Hybrid Genetic Algorithm/Multiple Linear Regression
+Approach," Management of Environmental Quality: An International Journal, Vol. 27, #3, pp. 313-325.
+
+Description: 
+Regression model to predict log(Retention Time) to 6 Predictors for 84 pesticides.
+Predictors:
+Total Energy of Molecule
+Number of 6-membered rings
+Broto-Moreau autocorrelation of topological structure - lag 1 weighted by atomic masses
+Broto-Moreau autocorrelation of topological structure - lag 7 weighted by Van der Waals volumes
+Geary autocorrelation - lag 2 weighted by atomic Sanderson electronegativities
+Eigenvalue 05 from edge adjacent matrix weighted by dipole moments
+Note: First 67 pesticides were training sample, last 17 were test sample
+
+Variable Names:
+pestID      (1-84)
+pestName    (chemical name)
+logRT
+totEnergy
+num6Ring
+ATS1m
+ATS7v
+GAATS2e
+EEig05d
+crossval   (1=training, 2=test)
+
+

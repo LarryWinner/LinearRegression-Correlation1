@@ -1,0 +1,16 @@
+Dataset:  icecreamcone1.csv
+
+Source: V.T. Huang, S.T. Luebbers, J.B. Lindamood, P.M.T. Hansen (1989).
+"Ice Cream Cone Baking: 2. Textured Characteristics of Rolled Sugar Cones,"
+Food Hydrocolloids, Vol. 3, #1, pp. 41-55.
+
+Description: Relations among daily  temperature, relative humidity,
+cone strength, and cone weight based on noon readings for 20 days
+of cone making in August/September.
+
+Variable Names:
+dryBulb    (Temerature, C)
+relHum     (Relative Humidity, %)
+coneStrng  (Cone strength, newtons)
+coneWt   (Cone Wieight, grams)
+

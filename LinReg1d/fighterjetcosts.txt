@@ -1,0 +1,25 @@
+Dataset:  fighterjetcosts.csv
+
+Source: A. Bongers and J.L. Torres (2014) "Technological Change in U.S. Jet Aircraft."
+Research Policy, Vol. 43, pp. 1570-1581.
+
+Data regarding (log) costs of n = 62 military fighter jets to the following predictors:
+Trend (Year - 1943)
+Thrust (log)
+Climb (log)
+Maximum Takeoff Weight (log)
+Basic Avionics (0/1)
+Advanced Avionics (0/1)
+Stealth (0/1)
+
+Variable names
+Aircraft
+FlyawayCost
+FFD (First Flight Date)
+Year1 (FFD-1943)
+Thrust
+Climb
+MTOW
+basAvionics
+advAvionics 
+Stealth

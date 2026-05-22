@@ -1,0 +1,19 @@
+Dataset: tattoo_sweat1.csv
+
+Source: M.J. Luetkemeier, J.M. Hanisko, K.M. Aho (2017). "Skin Tattoos Alter Sweat Rate and NA+ Concentration,"
+Medicine & Science in Sports & Exercise. DOI: 10.1249/MSS.0000000000001244, pp. 1432-1436.
+
+Description:
+Sweat Rates and NA+ Concentrations for n=10 subjects at locations with and without tattoos within subjects.
+Could be used for paired t-test, regression/correlation, or multivariate analysis.
+Scores approximated from Figures 1 and 2.
+
+Variable Names: 
+subject
+height  (cm)
+weight  (kg)
+age  (years)
+age_tat   (years)
+swt_tat   (sweat rate in mg/cm^2/min)
+swt_notat      ""
+na_tat    (sweat NA+ in mMol/L

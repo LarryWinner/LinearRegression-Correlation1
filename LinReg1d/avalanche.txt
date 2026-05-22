@@ -1,0 +1,22 @@
+Data:  avalanche.csv
+
+Source: H. Liu, X. Zhao, D. Xiao (2021). "Effects of Local Topopraphy on the Mobility of Rock Avalanches:
+A Statistical Analysis Based on 36 Cases from South-western China," Engineering Geology, Vol. 294, 106351.
+
+Description: Regression models fit relating runout distance (L) to volume (V) and height (H) of avalanche for
+3 confinement types.
+Models fit:
+log(H/L) = a0 + a1*log(V) + eps      log(L) = b0 + b1*log(V) + b2*log(H) + e
+Could also include dummy variables for confinement type: L=Lateral, F=Frontal, U=Unconfined
+
+Variable names:
+avID     (avalanche ID)
+event    (name of event)
+date     
+volume    (M m^3)
+height    (m)
+runDist   (m) 
+Uconf     (Dummy for U-confined, L-confined is reference)
+Fconf     (Dummy for F-confined, L-confined is reference)
+conf      (Confinement type: H,F,L)
+ 

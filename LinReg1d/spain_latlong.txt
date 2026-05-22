@@ -1,0 +1,14 @@
+Dataset: spain_latlong.csv
+
+Source: J.M. Romera and H. Perez-Acebo (2020). "A New Method of Locating Roman Transport
+Infrastructure," Journal of Cultural Heritage, Vol. 43, pp.175-185.
+
+Description: Latitude and Longitude coordinates for 48 locations in the Iberian Peninsula,
+based on Ptolemy's Geographia and the WGS 84 reference (GIS) system.
+Data approximated from Figure 3 (p. 180) and Figure 5 (p. 181)
+
+Variable Names
+Long_ptol
+Long_wgs
+Lat_ptol
+Lat_wgs 

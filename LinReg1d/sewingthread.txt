@@ -1,0 +1,18 @@
+Dataset:  sewingthread.csv
+
+Source: V.K. Midha, S. Sharma, V. Gupta (2016). "Prediction of Sewing
+Thread Consumption for Lockstitch Using Regression Model," Research
+Journal of Textile and Apparel, Vol. 20, #3, pp. 155-163
+
+Description: Results of an experiment relating sewing thread consumption 
+to thickness, stitch density, elongation,
+and fiber type (Cotton/Polyester)
+
+
+Variable Names:
+serNum    (run number)
+thick
+stitchDen
+elong
+cotton = 1 if Cotton, 0 if polyester
+sewThrdCns

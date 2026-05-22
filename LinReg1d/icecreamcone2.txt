@@ -1,0 +1,17 @@
+Dataset:  icecreamcone2.csv
+
+Source: V.T. Huang, J.B. Lindamood, P.M.T. Hansen (1988). "Ice-Cream Cone
+Baking: Dependence of Baking Performance on Flour and Batter Viscosity,"
+Food Hydrocolloids, Vol. 2, #6, pp. 451-466.
+
+Description: Model relating Batter Viscosity (Poise) to Water and Salt 
+composition and Temperature.
+Model  ln(Vis) = b0 + b1*W + b2*S + b3*T
+
+
+Variable Names: 
+tempC   (Temperature, C)
+saltPct    (Salt, %)
+waterPct   (Water, %)
+batVis     (Batter Viscosity, poise)
+logBV      (ln(batVis))

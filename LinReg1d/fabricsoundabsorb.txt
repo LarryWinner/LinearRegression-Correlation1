@@ -1,0 +1,21 @@
+Dataset:   fabricsoundabsorb.csv
+
+Source: X. Tang, D. Kong, X. Yan (2018). "Multiple Regression Analysis
+of a Woven Fabric Sound Absorber," Textile Research Journal, 
+https://doi.org/10.1177/0040517518758001.
+
+Description: Acoustic absorption coefficients of 24 woven fabrics
+with different air gap distances (d=0,1,2,3,cm)
+Responses: 
+acoustic0  (d=0 cm)
+acoustic1
+acoustic2
+acoustic3
+
+Predictors:
+thickness   (mm)
+diameter    (mm)
+perforation (%)
+weight      (g/m^2)
+stiffness   (mN x cm)
+airPerm     (air permeability, mm/s) 

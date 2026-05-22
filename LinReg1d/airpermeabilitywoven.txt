@@ -1,0 +1,21 @@
+Dataset: airpermeabilitywoven.csv
+
+Source: A. Cay, S. Vassiliadis, M. Rangoussi, I. Tarakcioglu (2006).
+"Prediction of the Air Permeability of Woven Fabrics Using Neural
+Networks," International Journal of Clothing Science and Technology, 
+Vol. 19, #1, pp. 18-35.
+
+Description: Structural factors relating to air permeability for 30
+fabric types. Data are mean and SD of 5 replicates per fabric.
+
+Model 1: E{AP} = B0 + B1*Warp + B2*Weft + B3*Mass
+Model 2: E{AP} = C0 + C1*Water + c2*(Water^2)
+
+Variable Names:
+sampNum
+warp      (warp yarn density, ends/cm)
+weft      (weft  "     "    , picks/cm)
+mass      (mass per unit area, gr/m^2)
+airPermMn  (average air permeability, cm^2/s/cm^2)
+airPermAD  (Std Dev of air perm measurements)
+waterCont  (Water Content after vacuum drying, %)

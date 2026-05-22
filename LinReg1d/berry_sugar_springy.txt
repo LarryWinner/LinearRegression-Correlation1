@@ -1,0 +1,16 @@
+Dataset:  berry_sugar_chewy.csv
+
+Source: I. Zouid, R. Siret, F. Jourjion, E. Mehinagic, L. Rolle (2013).
+"Impact of Grapes Heterogeneity According to Sugar Level on Both
+Physical and Mechanical Berries Properties and their Anthocyanins
+Extractability at Harvest," Journal of Texture Studies, Vol. 44, pp. 95-103.
+
+Description: NaCl concentrations, Sugar equivalent (g/L) and 
+Springiness (mm) of berries
+from 6 sugar equivalent levels (15 berries/level).
+
+Variables: 
+nacl
+sugTrt
+sugCont
+springiness

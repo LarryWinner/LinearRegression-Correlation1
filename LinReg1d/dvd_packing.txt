@@ -1,0 +1,26 @@
+Dataset:  dvd_packing.csv
+
+Source: H. Oktem (2012). "Modeling and Analysis of Process Parameters
+for Evaluating Shrinkage Problems During Plastic Injection Molding of a
+DVD-ROM Cover," Journal of Materials Engineering and Performance,
+Vol. 21, #1, pp. 25-32.
+
+Description: Experiment with 5 Factors and 27 observations relating
+DVD cover shinkage (%) to 5 factors with the following levels:
+
+Mold Temperature (C):  40, 60, 80
+Melt Temperature (C):  230, 240, 250
+Injection Pressure (Mpa):  80, 100, 120
+Injection Time (sec): 1, 2, 3
+Cooling Time (sec): 10, 15, 20
+
+Variable Names:
+runNum
+moldTemp
+meltTemp
+injectPrs
+injectTime
+coolTime
+shrinkPct
+
+

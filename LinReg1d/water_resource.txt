@@ -1,0 +1,19 @@
+Dataset: water_resource.csv
+
+Sources:
+Shih, S.F. and W.F.P. Shih (1978). "Use of Dummy Variables in Water Resources Studies," Journal of Hydrology,
+Vol. 38, pp. 289-298.
+
+Stephens, J.C. and L. Johnson (1951). "Subsidence of Organic Soils in the Upper Everglades Region of Florida,"
+Soil Science Society of Florida Proceedings, Vol. 11, pp. 191-237.
+
+Description: Data relating subsidence to Water Table level for 3 crops (pasture, truck crop, and sugarcane)
+in the Florida Everglades. The experiment was conducted in 8 plots (blocks).
+
+Variable Names:
+crop
+plot
+subsidence
+pasture    (1 if pasture, 0 ow)
+truckCrop  (1 if Truck Crop, 0 ow)
+waterTbl   (water table level, mm) 

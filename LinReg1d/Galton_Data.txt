@@ -1,0 +1,16 @@
+Dataset: Galton_Data.csv
+
+Source: James A. Hanley (2004). "'Transmuting' Women into Men: Galton's 
+  Family Data on Human Stature," The American Statistician, Vol.58, #3, pp.237-243.
+
+Description: "Raw" Data from Francis Galton's notebooks of Adult child heights and mid-parents' heights
+
+Variable Names:
+Family
+Father   (Height in inches)
+Mother   (Height in inches)
+Gender   (M/F)
+Height   (Height in inches)
+Kids     (number of kids in family)
+Midparent   (0.5*(Father+1.08*Mother))
+AdltChld    (if Gender=M,Height;  if Gender=F,1.08*Height)

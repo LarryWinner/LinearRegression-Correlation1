@@ -1,0 +1,18 @@
+Dataset: hand_height_india.csv
+
+Source: P. Rastogi, K.R. Nagesh, and K. Yoganarasimha (2008).
+"Estimation of Stature from Hand Dimensions of North and South Indians,"
+Legal Medicine, Vol. 10, pp. 185-189.
+
+Description: Height and Right Hand length-2 (cm) measured from 
+the mid-point of inter-styloid line to the most anterior projection of the skin of the middle finger. Subjects were classified by whether they were from north or south India and whether they were male or female.
+Data generated from summary statistics and linear regression estimates.
+
+Variables Names
+id  (w/in region/gender)
+reg.gen    (group, combination of region and gender)
+stature    (height, in cm)
+R.HL2      (right hand length-2)
+male       (1 if male, 0 if female)
+north      (1 if from north, 0 if from south)
+

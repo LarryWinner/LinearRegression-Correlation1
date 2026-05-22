@@ -1,0 +1,21 @@
+Dataset: nigeria_singapore_hotel.csv
+
+Sources:
+
+Oluseyi, P.O., O.M. Babatunde, O.A. Batatunde (2016). "Assessment of Energy
+Consumption and Carbon Footprint from the Hotel Sector Within Lagos, Nigeria,"
+Energy and Buildings, Vol. 118, pp. 106-113.
+
+Priyadarsini, R. W. Xuchao, L.S. Eang (2009). "A Study on Energy Performance of
+Hotel Buildings in Singapore," Energy and Buildings, Vol. 41, pp. 1319-1324.
+
+Description: Data on annual energy consumption, floor area, and number of employees
+for 27 Lagos and 28 Singapore hotels.
+
+Variables:
+city    (1=Lagos, 2=Singapore)
+hotel.ID   (within city)
+year.EC    (annual energy consumption, MWh)
+flr.area   (square meters)
+employees
+

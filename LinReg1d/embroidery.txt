@@ -1,0 +1,26 @@
+Dataset: embroider.csv
+
+Source: A. Dutta and B. Chatterjee (2020). "Development of Prediction Model Through
+Linear Multiple Regression for the Prediction of Longitudinal Stiffness of
+Embroidered Fabric," Fashion and Textiles, 7:36 pp.1:24
+
+Description: Multiple Regression model relating 
+Y = Longitudinal Flexural Rigidity of Embridered Fabric (dyne.cm) to 6 predictors:
+X1 = Warp Way Flexural Rigidity of the Base Fabric (dyne.cm)
+X2 = Embroidery Thread Breaking Load (gf)
+X3 = Embroidery Thread Denier
+X4 = Stitch Density (# stitches per cm^2)
+X5 = Average Stitch Length (mm)
+X6 = Average Angle Between Embroidery Stitch and the Warp Direction of the Base Fabric
+Model was fit on training sample (first 49 cases) and validated on test sample (last 25)
+
+Variable Names
+sample (1=Training, 2=Test)
+IDsample   (ID number within sample)
+X1
+X2
+X3
+X4
+X5
+X6
+Y

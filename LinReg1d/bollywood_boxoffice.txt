@@ -1,0 +1,11 @@
+Dataset:  bollywood_boxoffice2.csv
+
+Source: http://www.bollymoviereviewz.com
+
+Description: Box office gross revenue and budget (crore) for 188 Bollywood
+films from 2013-2017. 
+
+Variables:
+Movie
+Gross
+Budget

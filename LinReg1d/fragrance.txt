@@ -1,0 +1,20 @@
+Dataset:  fragrance.csv
+
+Source: H.R. Moskowitz (1986). "Sensory Segmentation of Fragrance Preferences."
+Journal of the Society of Cosmetic Chemists, Volume 37, pp.233-247, July/August.
+
+Description: Rating scores for 15 varieties of fragrances (3 brands, 12 test products).
+Ratings are averages for 160 women who often wear fragrances on a 0-100 scale.
+Overall liking and 6 attributes (see below)
+Relation between Overall liking (Y) and Attribute scores (X's) tend to be inverted U-shaped.
+
+Variable names
+fragrance  (label)
+overall
+strength  (of fragrance)
+sweet
+spicy
+flowery
+heavy
+harsh
+

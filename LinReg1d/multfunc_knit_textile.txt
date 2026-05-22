@@ -1,0 +1,20 @@
+Dataset:  multfunc_knit_textile.csv
+
+Source: E. Carpus, C. Mihai, A. Dorogan, I. Birliba (2017). 
+"Correlation Study of Multifunctional Knitted Textile Structures
+Characteristics," Industria Textila, Vol. 68, #2, pp. 131-137.
+
+Description: Relationships among 8 variables for 15 knitted fabric samples.
+Models were fit relating Thickness and mass to air permeability and
+water vapor permeabilitty. Correlations among variables also obtained.
+
+Variable Names:
+ID 
+dimChngLen    (Dimensional changes in length)
+dimChngWid    (     "         "    "  width)
+mass
+numWales      (number of wales)
+numRows       (number of rows)
+thickness
+waterVprPerm  (water vapor permeability)
+airPerm       (air permeability) 
