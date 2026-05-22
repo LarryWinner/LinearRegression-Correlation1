@@ -1,0 +1,20 @@
+Dataset:  japanemg.dat
+
+Source:  Y. Murayama (1991). "Information and Emigrants: Interprefectural 
+Differences of Japanese Emigration to the Pacific Northwest, 1880-1915",
+The Journal of Economic History, Vol. 51, #1, pp125-147.
+
+Description: Emigration and measures of poverty (tenant farming),
+population pressure (farm size), and information (gov't workers in
+Hawaii and existence of pioneer immigrants) for 45 prefectures in
+Japan.
+
+Variables/Columns
+
+Prefecture  1-20
+Emigrants  23-25   /* Per 1 million residents  */
+% land cultivated by tenant farmers   32-33
+% change in ratio of tenant farmlands   37-41
+Average area of arable land per farm   45-49
+# of government labors working in Hawaii  52-57  /* in 100s  */
+Existence of pioneer immigrants  65   /* 1=Yes, 0=No  */

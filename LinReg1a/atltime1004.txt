@@ -1,0 +1,17 @@
+Dataset: atltime1004.dat
+
+Souce:  U.S. Bureau of Transportation Statistics
+
+Description: Flight times (scheduled and actual) and taxi-out times
+of all Delta outbound flights from Atlanta in October 2004. Note that
+cancelled flights will vave actual flight time=0.
+
+Variables/Columns
+Flight Date  1-2
+Flight Number  6-9
+Tail Number   13-18
+Destination city  22-24
+Taxi-out time (minutes)  28-31
+Scheduled flight time  35-38
+Actual flight time   42-45
+distance (miles)   49-52

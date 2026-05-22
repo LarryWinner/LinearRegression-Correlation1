@@ -1,0 +1,21 @@
+Dataset: ballistic1.csv
+
+Source: R.A. Prosser, S.H. Cohen, and R.A. Segars (2000). "Heat as a Factor 
+of Cloth Ballistic Panels by 0.22 Caliber Projectiles," Textile Research
+Journal, Vol. 70: pp. 709-723.
+
+Description: Experiments measuring V50 (velocity at which approximately
+half the projectiles within a specified (narrow) striking velocity range
+penetrate the panel, in meters/second).
+
+Model fit:  (V50/100)^2 = a + b*panels, seperately by bullet type (round, sharp,
+FSP). Note: appears to be a typo on the rounded regression of Table II, p. 717
+and on last recorded observation in Table I.
+
+Variables  (Names): 
+Bullet Type    /* 1=Rounded, 2=Sharp, 3=FSP  */  (bulletType)
+Number of layers in panel    (layers)
+V50 in m/s          (V50)   
+sharp indicator    (Sharp)
+FSP indicator      (FSP)
+[V50/100]^2        (V50Csq)

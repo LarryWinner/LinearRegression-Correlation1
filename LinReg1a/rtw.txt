@@ -1,0 +1,18 @@
+Dataset:  rtw.dat
+
+Source: D. Gilbert (1966). "A Statistical Analysis of
+the Right to Work Conflict", Industrial and Labor Relations Review",
+Vol 19, #4, pp 533-537.
+
+Description: State level data on industrial conflict, as well as
+percent union workers, percent working in relatively non-unionized
+industries, percent working in agriculture, and an indicator of whether
+the state has is a union-shop state.
+
+Variables/Columns:
+State Postal Abbreviation   1-2
+Degree of conflict (1957-1962)  13-16  /* % of worker hours lost in stoppages */
+Degree of Unionization  21-24   /* % of workforce */
+Union-shop dummy   32  /* 1=Non-Right to work, 0=Right to work  */
+Sector A Workers  37-40 /* % in food, textiles and apparel  */
+Ag force  45-48   /* Percent working in agriculture  */

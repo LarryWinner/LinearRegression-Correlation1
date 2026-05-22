@@ -1,0 +1,11 @@
+Dataset:  wine1988.dat
+
+Source: Beverage World (I think) and U.S. Census Bureau
+
+Description: State wine consumption and population circa 1988
+
+Variables/Columns
+State Postal Abbreviation  1-2
+Population (1000s)  4-8
+Wine consumption (1000s of gallons)  10-15
+Wine Producer Indicator   17

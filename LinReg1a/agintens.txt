@@ -1,0 +1,21 @@
+Dataset: agintens.dat
+
+Source: B.L. Turner, II; R.Q. Hanham, A.V. Portararo (1977). "Population
+Pressure and Agricultural Intensity," Annals of the Association of
+American Geographers, Vol 67, #3, pp. 384-396.
+
+Description: Factors relating to Agricultural Intensity in 29 regions.
+Factors include: population density, whether livestock are present,
+mean precipitation, length of dry season, alluvial/hydromporhic
+indicator, cereals indicator.
+
+
+Variables/Columns
+Location id   7-8
+agricultural intensity   10-16
+log(ag intensity) 18-24
+population density  27-32
+livestock indicator   40
+mean precipitation   42-48
+alluvial/hydromorphic indicator  56
+cereal crop indicator  64

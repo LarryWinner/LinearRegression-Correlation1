@@ -1,0 +1,21 @@
+Dataset: insular.dat
+
+Source: F. Vuilleumier (1970). "Insular Biogeography in Continental Regions.
+I. The Northern Andes of South America," American Naturalist. Vol.104:373-388.
+
+Description: Patterns of bird species among "islands" of mountain
+tops in 15 regions of the Andes.
+
+Variables/Columns
+Islands of Paramo Vegetation   1-25
+Total Number of Species    30-33
+Number of species of South American origin   39-41
+Number of endemic taxa   47-49
+Percent of endemic taxa   52-57
+Area (km^2)    61-65
+Base altitude  (meters)   68-73
+Elevation  (meters)    76-81
+Distance from Paramo 1 (km)  85-89   /* 1 for Paramo 1 for logs  */
+Distance to nearest island of vegetation  (km)   92-97
+Distance to nearest island in south   (km)   100-105
+Distance to nearest large island (km)   108-113

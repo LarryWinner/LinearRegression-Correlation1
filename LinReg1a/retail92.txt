@@ -1,0 +1,14 @@
+Dataset: retail92.dat
+
+Source: U.S. Census Bureau
+
+Description: U.S. SMSA Retail Sales (1992) and Several covariates.
+
+Variable/Columns
+
+SMSA name   1-36
+Per capita Retail slaes ($1000s)  38-43
+Per capita Retail Establishments   47-51
+Per capita income  ($1000s)   54-59
+Per capita federal expenditures  ($1000s)  62-67
+Males per 100 females    73-75

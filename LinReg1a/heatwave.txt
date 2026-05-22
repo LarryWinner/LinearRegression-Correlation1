@@ -1,0 +1,18 @@
+Dataset: heatwave.dat
+
+Source:  P. Pirard et al (2005). "Summary of the Mortality Impact Assessment
+of the 2003 Heat Wave in France", Eurosurveillance Monthly Releases,
+Volume 10, Issue 7-8
+
+Description: Mortality data for 13 cities in France for August1-19 
+and comparison figures for 1999-2002, as well as temperature data
+over the period.
+
+Variables/Columns
+City    1-13
+2003 Deaths   19-22
+Mean deaths 1999-2002    26-30
+Excess deaths in 2003 (%)  36-38
+Days w/ high temp >35C    45-46
+Days w/ low temp >22C    53-54
+Change in mean temp over period (C)  60-62

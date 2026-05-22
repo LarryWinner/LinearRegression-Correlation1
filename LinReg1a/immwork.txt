@@ -1,0 +1,16 @@
+Dataset:  immwork.dat
+
+Source: R. Higgs (1971). "Race, Skills, and Earnings: American Immigrants in 
+1909", The Journal of Economic History, Vol. 31, #2, pp.420-428.
+
+Description: Average weekly earnings, English speaking and literacy rates,
+and Tenure in U.S. for immigrants from 35 nations working
+in mining and manufacturing, 1909. 
+
+Variables / Columns
+
+Nationality   1-25
+Average weekly wage  30-34  /* in dollars  */
+% Speaking English   38-42
+% Literate      46-50
+% Living in U.S. more than 5 years   54-58

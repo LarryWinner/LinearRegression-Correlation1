@@ -1,0 +1,18 @@
+Dataset:  atltime1.dat
+
+Source: Bureau of Transportation Statistics (www.bts.gov)
+
+Description: Airborne times of all domestic Delta Air Lines flights
+departing from Hartsfield-Jackson International Airport
+(Atlanta) in October, 2004.
+
+
+Variables/Columns
+
+Day of month 1-8   
+Flight Number  9-16
+Tail Number   17-24   /* Plane identifier  */
+Destination airport  25-32
+Airborne time (minutes)  33-40
+Distance  (miles)  41-48   /* Great circle distance betwen airports */
+City ID    49-56

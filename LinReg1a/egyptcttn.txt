@@ -1,0 +1,22 @@
+Dataset: egyptcttn.csv
+
+Source: Hamza, A.A. and Z.N. Sokkar (1981). "Brightness of Egyptian Cotton
+Fibers," Textile Research Journal, Vol. 51, pp. 587-590.
+
+Description: Luminance scores and quality grades for 5 varieties of
+Egyptian cotton. Model fit for each variety:   
+Lum=a+b*ln(Grade)
+
+Variables Names
+variety 
+luminance   
+lnGrade  
+grade     
+giza69    (Dummy)
+giza67    (Dummy)
+giza70    (Dummy)
+giza68    (Dummy)
+lnGrG69   (Crossproduct)
+lnGrG67   (Crossproduct)
+lnGrG70   (Crossproduct)
+lnGrG68   (Crossproduct)

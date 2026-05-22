@@ -1,0 +1,23 @@
+Dataset: muscle2.dat
+
+Source: M. Greenwood (1918). "On the Efficiency of Muscular Work,"
+Proceedings of the Royal Society of London, Series B, Containing Papers
+of a Biological Character, Vol.90, #627, pp.199-214
+(Originally from Jules Amar (1910), 'Le Rendement de la Machine Humaine')
+
+Description: Measurements of Heat Production (calories) at various
+Body Masses (kgs) and Work levels (Calories/hour) on a stationary bike.
+
+
+Note original observation for Case 19 (Heat Output) is clearly a typo
+in original paper and has been changed from 3936 to 2936 (which makes
+all calculations in agreement with authors)
+
+Models Considered:
+(i)   E(H)=a0+a1*M+a2*W
+(ii)  E(H)=b0+b1*M+(W/(b3+b4*M))
+
+Variables/Columns
+Body Mass  5-8
+Work Level    12-16
+Heat Output   21-24

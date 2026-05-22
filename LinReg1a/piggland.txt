@@ -1,0 +1,13 @@
+Dataset:  piggland.dat
+
+Source: C.B. Davenport and C. Bullard (1896). "Studies in Morphogenesis VI: A
+Contribution to the Quantitive Study of Correlated Variation and the
+Comparative Variability of the Sexes," Proceedings of the American Academy of
+Arts and Sciences, Vol. 32, #4, pp. 87-97
+
+Description: Numbers of glands observed in Right legs and left legs for
+2000 male pigs.
+
+Variables/Columns
+Right leg glands   7-8
+Left leg glands   15-16

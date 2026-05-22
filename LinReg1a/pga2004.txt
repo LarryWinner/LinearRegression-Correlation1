@@ -1,0 +1,19 @@
+Dataset:   pga2004.dat
+
+Source: sportsillustrated.cnn.com
+
+Description: Performance statistics and winnings for 196 PGA participants
+during 2004 season.
+
+Variable/Columns
+Name  1-22
+Age   24-25
+Average Drive (Yards)  29-33
+Driving accuracy (percent)  38-41
+Greens on regulation (%)  46-49
+Average # of putts  53-57
+Save Percent     62-65
+Money Rank   71-73
+# Events    80-81
+Total Winnings ($)  83-90
+Average winnings ($)  93-98

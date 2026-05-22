@@ -1,0 +1,12 @@
+Dataset:  millcost.dat
+
+Source: J. Dean (1941), "Statistical Cost Functions of a Hosiery Mill", 
+Studies in Business Administration, Vol. 14, #3.
+
+Description: Monthly Production Costs and Output for a hosiery
+mill over a 4-year period (Data approximated from graph).
+
+Variables/Columns
+Month   1-2
+Production   12-16   (Thousands of dozens of pairs)
+Cost    20-24 ($1000s)

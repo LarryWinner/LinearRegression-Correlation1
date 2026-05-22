@@ -1,0 +1,19 @@
+Dataset:  lpga2008.dat
+
+Source:  lpga.com
+
+Description: 2008 season statistics for Women's professional golfers on LPGA
+tour.
+
+Variables/Columns
+Golfer   1-30
+Average Drive distance 31-38
+Fairway Percent  40-46
+Greens in regulation (%) 48-54
+Average putts per round    56-62
+Sand attempts per round  64-70
+Sand Saves (%)   72-78
+Total Winnings per round    80-86
+Log(Total Win/Round)  88-94
+Total Rounds        96-102
+id                  105-110

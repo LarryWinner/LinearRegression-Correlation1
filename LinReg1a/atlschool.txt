@@ -1,0 +1,16 @@
+Dataset: atlschool.dat
+
+Source: E.R. Enlow (1938). "Do Small Schools Mean Large Costs?," Peabody
+Journal of Educaltion, Vol. 16, #1, pp. 1-11
+
+Description: Per-Pupil Costs, Average Daily Attendance, Average Monthly
+Teacher salary, Percent Attendance, and Pupil-Teacher ratio for the 44 White
+Elementary schools in Atlanta
+
+Variables/Columns:
+School  1-15
+Per-Pupil Cost  (Dollars)   17-23
+Average daily Attendance   25-31
+Average Monthly Teacher Salary (Dollars)  33-39
+Percent Attendance       41-47
+Pupil/Teacher ratio    50-55

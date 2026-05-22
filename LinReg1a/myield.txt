@@ -1,0 +1,19 @@
+Dataset:  myield.csv
+
+Source: A.H. Schaaf (1966). "Regional Differences in Mortgage Financing Costs",
+Journal of Finance, Vol. 21, pp.85-94.
+
+Description: New Home Mortgage Yields for 18 SMSA's as well as six financial and
+geographic factors.
+
+
+Variables (Names):
+
+Standard Metropolitan Statistical Area    (smsa) 
+Mortgage Yield in %     (mortYld)
+Average Loan/Mortgage Ratio  High values ==> Low Down Payments   (X1)
+Distance from Boston in miles  (X2)
+Savings per new unit built   (X3)
+Savings per capita   (X4)
+Pop inc 1950-1960 in %   (X5)
+Percent of first mortgage from inter-regional banks  (X6)
