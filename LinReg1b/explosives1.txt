@@ -1,0 +1,13 @@
+Dataset:  explosives1.dat
+
+Source: W. McNab, E. Ristori (1899-1900). "Researches on Modern Explosives,
+Second Communication," Proceedings of the Royal Society of London,
+Vol. 66, pp. 221-232.
+
+Description: Experimental Results of Relation of Area of Wires (1/100,000 in)
+of Couplings and the deflection of galvonometer in explosion experiments
+
+Variables/Columns
+Coupling Number   8
+Area of wires (1/100,000 in)  12-16
+Deflection of Galvonometer (mm)  18-24

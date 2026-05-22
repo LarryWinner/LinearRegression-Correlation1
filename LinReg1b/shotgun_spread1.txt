@@ -1,0 +1,21 @@
+Dataset:  shotgun_spread1.csv
+
+Source: C.H. Fann, W.A. Ritter, R.H. Watts, and W.F. Rowe (1986).
+"Regression Analysis Applied to Shotgun Range-of-Fire Estimations:
+Results of a Blind Study," Journal of Forensic Sciences," Vol. 31, #3,
+pp. 840-854.
+
+Description: Results of experiments measuring spread of shotgun pellets
+from distances of 10-50 feet for two cartridge types (1=Federal 00
+buckshot cartridges, Lot No. 2127, 2=Peters No. 9 shot cartridges, Lot
+No. LBU 06H506). Response is the square rro to area of the smallest rectangle
+enclosing pellet pattern.
+
+Variable names
+cartType
+rangeFire   (feet)
+rootA       (response)
+grpMean     (mean of 6 shots for that cartridge type and distance)
+grpVar      (variance of 6 shots for that cartridge type and distance)
+grpSD       (SD of 6 shots for that cartridge type and distance)
+

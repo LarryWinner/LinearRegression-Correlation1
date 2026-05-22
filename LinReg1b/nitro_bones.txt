@@ -1,0 +1,20 @@
+Dataset: nitro_bones.dat
+
+Source: D.R. Jarvis (1997). "Nitrogen Levels in Long Bones from
+Coffin Burials Interred for Periods of 26-90 Years," Forensic Science
+International, Vol85, pp199-208.
+
+Description: Nitrogen content among 42 male skeletons from
+2 cemeteries of various interrnment lengths, ages, depths, lime addition.
+Some missing ages and depths. The first 3 cases were contaminated
+with oil.
+
+Variables/Columns
+Burial Site    8   /* 1=A, 2=LG   */
+Deposition (internment) Time (Years)  10-16
+Depth (feet)       18-24
+Lime Added  32   /* 1=Yes, 0=No  */
+Age of Person    38-40
+Nitrogen Level (g/100g of bone)   44-48
+Oil Contamination   56   /* 1=Yes, 0=No  */
+

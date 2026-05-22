@@ -1,0 +1,25 @@
+Dataset:  leather_jacket.dat
+
+Source: C-C. Matenciuc, S. Mitu, E. Pintilie, and N. Ciuhat (2009).
+"The Analysis in 2D and 3D Systems of the Relationship Betweem the Main
+Comfort Parameters of the Clothing Structures with Coat or Jacket Made
+of Natural Leather - Part II," Annals of the Oradea University Fasicle of
+Textile Leatherwork. Vol. X, pp. 329-334
+
+
+Description: Relation between comfort characteristics and ensemble 
+characteristics. Primary responses: Total heat transfer coefficient and
+Resistance to vapor passage. Primary predictors: Air permeability of
+the ensemble and thickness of ensemble. Models fit in linear and quadratic
+forms.
+
+Variables/Columns
+Item ID #   7-8
+Air permeability of ensemble (m^3/(min*m^2))   10-16
+Thickness of ensemble (mm)   18-24
+Resistance to air passage (m^2*h*mm/kg)  26-32
+Resistance to vapor passage (m^2*h*mm/g)   34-40
+Total heat transfer coefficient (kcal/(m^2*h*degC))   42-48
+Total Thermal Resistance (m^2*h*degC/kcal)   50-56
+Capacitive Thermal Insulation Index    58-64
+Required Heat Flux (kcal/(m^2*h))   66-72

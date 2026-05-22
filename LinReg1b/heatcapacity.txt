@@ -1,0 +1,17 @@
+Dataset: heatcapacity.dat
+
+Source: M. Shacham and N. Brauner (1997). "Minimizing the Effects
+of Collinearity in Polynomial Regression," Industrial and Engineering Chemistry
+Research, Vol. 36, pp. 4405-4412
+
+Original Source: W.F. Giaugue and R. Wiebe (1928). "The Heat Capacity
+of Hydrogen Bromide from 15K to its Boiling Point and its Heat
+of Vaporization," American Chemist, Vol. 50, pp.2193-2203
+
+Description: Heat Capacity (cal/(mol*K)) and Temperature (Kelvin)
+for solid hydrogen bromide in 18 experimental runs.
+
+Variables/Columns
+Run    7-8
+Heat Capacity    11-16
+Temperature      18-24

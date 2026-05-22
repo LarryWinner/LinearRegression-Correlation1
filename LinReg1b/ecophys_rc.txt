@@ -1,0 +1,16 @@
+Dataset:  ecophys_rc.dat
+
+Source: C. Potvin, M.J. Lechowicz, S. Tardif (1990). "The Statistical Analysis
+of Ecophysiological Response Curves Obtained from Experiments Involving
+Repeated Measures," Ecology 71(4), pp.1389-1400.
+
+Description: Nonlinear Growth Curvers for 3 plants each from 2
+locations and 2 Treatments at 7 levels of CO2 concentration.
+Model fit:   y = A(1-exp(-k*(dose-x0)))
+
+Variables/Columns
+Location    8   /* 1=Quebec,  2=Mississippi  */
+Treatment   16  /* 1=Control,   2=Chilled  */
+Plant ID    23-24
+CO2 Concentration   28-32
+C02 Uptake Rate    35-40 

@@ -1,0 +1,19 @@
+Dataset: hydrocarbon.dat
+
+Source: A.K.A.A. Razzak, E.T. Hashim, and H.N. Al-Shurchi (2006). "New 
+Statistical Concepts for Prediction Viscosity, Critical Temperature,
+and Critical Pressure of Homologous Hydrocarbon Series (C_nH_(2n+2),"
+Petroleum Science and Technology, Vol.24, pp1431-1435.
+
+
+Description: Data used to fit nonlinear regressions for 3 Dependent
+Variables (viscosity, critical pressure, critical temperature) as 
+functions of carbon number (C).
+Model:  Y = A1*(C^A2)*(2+2C)^A3    where A1,A2,A3 are parameters to
+be estimated.
+
+Variables/Columns
+Carbon Number 7-8
+Viscosity 10-16
+Critical Pressure 18-24
+Critical Temperature  26-32

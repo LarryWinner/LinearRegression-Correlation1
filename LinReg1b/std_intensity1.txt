@@ -1,0 +1,14 @@
+Dataset:  std_intensity1.csv
+
+Source: T.R.M. De Beer, G.J. Vergote, W.R.G. Baeyens, J.P. Remon, C. Vervaet
+and F. Verpoort (2004). "Development and Validation of a Direct,
+non-Destructive Quantitative Method for MedroxyprogesteroneAcetate in a 
+Pharmaceutical Suspension Using FT-Raman Spectroscopy," European Journal
+of Pharmaceutical Sciences, Vol. 23, pp. 355-362
+
+Description: Simple Linear Regression relating Peak Area (Y)
+to Concentration (X) for HPLC data. 5 concentrations, 6 reps/conc.
+
+Variables (Names)
+Standard Suspension Concentration in mg/ml  (conc) 
+Peak Area  (peakArea)   

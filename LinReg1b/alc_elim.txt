@@ -1,0 +1,19 @@
+Dataset:   alc_elim.dat
+
+Source: M. Pavlic, P. Grubweiser, K. Libisiller, Walter Rabl (2007).
+"Elimination Rates of Breath Alcohol," Forensic Science International,
+Vol. 171, pp. 16-21
+
+Description: Breath alcohol elimination rates (mg per litre per hour)
+and Blood alcohol elimination rates (g per litre per hour) measured
+on a sample of 59 Austrians (32 M, 27 F). Used to be able to back calculate
+pre-measured levels. Legal limits in Austria and many European countries
+are 0.5g/L BAC and 0.25mg/L BrAC.
+
+Variables/Columns
+Subject ID   7-8
+Gender   16   /* 1=Male, 2=Female  */
+BrAC (mg/L/h)   18-24
+BAC  (g/L/h)    26-32
+
+

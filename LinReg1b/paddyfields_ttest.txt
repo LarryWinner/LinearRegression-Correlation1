@@ -1,0 +1,13 @@
+Dataset:  paddyfields_ttest.dat
+
+Source: J-Z. Pan, Z-X. Lu(1998). "Relationship Between Paddy Soil Adhesion
+to Steel and to Rubber," Journal of Terramechanics, Vol. 35, pp. 155-158.
+
+Description: 43 pairs of samples of adhesion of paddy soil to steel
+and rubber. Analyzed as independent samples, but seems it should be paired.
+
+Variables/Columns
+Sample number   7-8
+Place (site) id   15-16
+Adhesion to steel (kPa)  20-24
+Adhesion to Rubber (kPa)  28-32

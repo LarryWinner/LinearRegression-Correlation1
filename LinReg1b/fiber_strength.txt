@@ -1,0 +1,13 @@
+Dataset: fiber_strength.dat
+
+Source: M.S. Ndaro, X-y. Jin, T. Chen, C-w. Yu (2007). "Splitting of
+Islands-in-the-Sea Fibers (PA6/COPET) During Hydroentangling of Nonwovens,"
+Journal of Engineered Fibers and Fabrics, Vol. 2, #4, pp.?? 
+
+Description: Water Pressure levels (bars) and breaking strength for 
+fibers (machine direction). Data simulated to obtain same mean and standard 
+deviations by pressure level.
+
+Variables/Columns
+Pressure level     5-8
+Tensile strength   10-16 

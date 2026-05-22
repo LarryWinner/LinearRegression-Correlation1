@@ -1,0 +1,14 @@
+Dataset:  std_intensity.dat
+
+Source: T.R.M. De Beer, G.J. Vergote, W.R.G. Baeyens, J.P. Remon, C. Vervaet
+and F. Verpoort (2004). "Development and Validation of a Direct,
+non-Destructive Quantitative Method for MedroxyprogesteroneAcetate in a 
+Pharmaceutical Suspension Using FT-Raman Spectroscopy," European Journal
+of Pharmaceutical Sciences, Vol. 23, pp. 355-362
+
+Description: Simple Linear Regression relating measured peak intensities (Y)
+to standard suspension Concentration. 4 concentrations, 6 reps/conc.
+
+Variables/Columns
+Standard Suspension Concentration   (mg/ml)  1-8
+Measured Peak Intensities  (AU)   10-16

@@ -1,0 +1,22 @@
+Dataset:  terminal_prod.txt
+
+Source: B. LU and N-K. Park (2010). "A Study on Productivity Factors
+of Chinese Container Terminals," Journal of Navigation and Port Research
+International Edition, Vol.34, #7, pp. 559-566.
+
+Description: Data on n=15 Chinese container terminals.
+Dep. Var = Throughput/berth  (1000s TEU)
+Indep. Vars: Yard area per berth, quay cranes per berth,
+terminal (yard) cranes per berth, yard tractors/perth, Berth Length,
+Water depth
+
+Variables/Columns
+Port   1-15
+Port ID  16  /* A-O (for plotting)  */
+Throughput/berth   18-24
+Yard Area / berth  (km^2)  26-32
+Quay cranes/berth   34-40
+Terminal (Yard) cranes/berth  42-48
+Yard Tractors/berth   50-56
+Length/berth  (m)   58-64
+Water Depth (m)  66-72

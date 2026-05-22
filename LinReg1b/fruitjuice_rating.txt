@@ -1,0 +1,12 @@
+Dataset:  fruitjuice_rating.dat
+
+Source: P. Molnar, M. Toth-Marcus and F. Boross (1992). "Sensory evaluation
+of Selected Fruit Juices and Nectars by a Panel Group and Consumers,"
+Food Control, Vol. 3, #4, pp. 213-217.
+
+Description: Rating scores by 7 experts and 25 consumers on 26 Hungarian
+fruit juices and nectars. Data represent the mean score for that group (experts vs consumers) for the particular product.
+
+Variables/Columns
+Expert score    4-8
+Consumer score   12-16

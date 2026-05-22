@@ -1,0 +1,40 @@
+Dataset: profit_ad.dat
+
+Source: J.M. Vernon and R.E.M. Nourse (1973). "Profit Rates and Market 
+Structure of Advertising Intensive Firms," The Journal of Industrial Economics,
+Vol. 22, #1, pp1-20.
+
+Description: Regression of firm profits (1963-1968) on several independent
+variables. Allows for heteroscedastic errors (function of firm size).
+
+Dependent Variables (averaged over 1963-1968):
+PT = (Net income + interest expense)/total assets
+PE = net income/shareholder equity
+
+Independent Variables
+CR = Weighted Concentration Ratio of firm's product markets (4-firm CR-1966)
+DCR = Dummy Var for CR >= 50  (not included in dataset, must be added)
+AS = Weighted average INDUSTRY advertising-to-sales ratio of firm's
+         product markets (1969 data)
+CAS = Overall 1969 advertising-to-sales ratio of the FIRM 
+GR = Weighted average percent changes in industry sales in the firm's markets
+DIV2 = Firm's diversification in 2-digit (more broad) industries (1-sum(S^2))
+DIV3 = Firm's diversification in 3-digit (less broad) industries (1-sum(S^2))
+SIZ = Firms 1968 Total assets ($1M)
+LRSIZ = 1/ln(SIZ)
+ 
+
+
+Variables/Columns
+Firm 1-25
+PT   30-33
+PE   38-41
+CR  45-49
+DCR   57
+AS   60-65
+CAS   68-73
+GR    76-81
+DIV2  84-89
+DIV3  92-97
+SIZ   100-105
+LRSIZ  107-113

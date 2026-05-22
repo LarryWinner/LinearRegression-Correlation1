@@ -1,0 +1,21 @@
+Dataset: rko_film_19301941.dat
+
+Source: J. Sedgwick (1994). "Richard B. Jewell's RKO Film Grosses, 1929-1951:
+The C.J. Trevlin Ledger: A Comment", Historical Journal of Film, Radio &
+Television, Vol.14, Issue 1, p. 51
+
+Descrption: Costs and Earnings of 155 RKO movies from 1930-1941.
+
+Variables/Columns
+Film          1-25
+Re-release dummy   33   /* 1=Re-release, 0 if not
+Production costs ($1000s) 36-41
+Domestic Revenue ($1000s) 44-49
+Foreign Revenue  ($1000s) 53-57
+Total Revenue    ($1000s)  61-65
+Profits          ($1000s) 68-73
+Distribution Cost($1000s) 76-81
+Dist Cost/Revenue         83-88
+Dist Cost/Prod Cost       91-97
+Year                      100-104
+100*Profit/(Prod+dist cost)   106-111

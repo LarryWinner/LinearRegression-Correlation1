@@ -1,0 +1,45 @@
+Dataset:  dyad_hlm.dat
+
+Source: P. Gadreau, M-C. Fecteau, and S. Perreault (2010). 
+"Multi-Level Modeling of Dyadic Data in Sport Sciences: Conceptual,
+Statistical, and Practical Issues," Measurement in Physical Education
+and Exercise Science, Vol.14,pp29-50.
+
+Description: Data on perfomance, relationship quality, motivation, and
+cohesion among 33 sports dyads (badminton, figure skating, synchronised
+swimming). Various multi-level models fit (i=dyad, j=individual w/in dyad):
+
+Null model:
+Level 1:   Y_ij = B_0i + e_ij
+Level 2:   B_0i = G_00 + u_0i
+
+IAO Model:
+Level 1:   Y_ij = B_0i + B_1i(Indiv Motivation_ij) + e_ij
+Level 2:   B_0i = G_00 + G_01(Dyad Cohesion_i) + G_02(Dyad Motivation_i) +u_0i
+           B_1i = G_10
+
+SAO Model:
+Level 1:   Y_ij = B_0i + B_1i(Indiv Motivation_ij) + e_ij
+Level 2:   B_0i = G_00 + G_01(Dyad Cohesion_i) + G_02(Dyad Motivation_i) + u_0i
+           B_1i = G_10 + G_11(Dyad Cohesion_i) + G_12(Dyad Motivation_i) + u_1i
+
+
+Variables/Columns
+Dyad ID    7-8
+Individual ID (within Dyad)  16
+Individual ID (Overall)    23-24 
+Individual's Perceprtion of dyad performance  27-32
+Individual's perception of relationship quality  34-40
+Individual's self-determined motivation  42-48
+Partner's self-determined motivation   50-56
+Individual's perception of dyadic cohesion  58-64
+Partner's perception of dyadic cohesion  66-72
+Dyad's Cohesion score (mean of individuals')   74-80
+Dyad's Motivation score ( "  "   ")     82-88
+Dyad's Centered Cohesion score       90-96
+Dyad's Centered Motivation score    98-104
+Dyad's Centered Motivation Score + 1 SD   106-112
+Dyad's Centered Motivation Score - 1 SD   114-120
+Dyad's Centered Cohesion Score + 1 SD   122-128
+Dyad's Centered Cohesion Score - 1 SD   130-136
+

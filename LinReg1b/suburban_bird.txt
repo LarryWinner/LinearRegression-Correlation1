@@ -1,0 +1,14 @@
+Dataset: suburban_bird.dat
+
+Source: T.R. Vale and G.R. Vale (1976). "Suburban Bird Populations in
+West-Central California," Journal of Biogeography, Vol. 3, pp. 157-165
+
+Description: Number of birds observed in 17 West-Central CA suburbs,
+age of suburb and habitat index
+
+Variables/Columns
+Suburb    1-20
+Year built   25-28
+Years before 1975   35-36
+Habitat index  40-44   /* Function of house, utilities, and shrubs/trees */
+Number of individual birds observed  50-52

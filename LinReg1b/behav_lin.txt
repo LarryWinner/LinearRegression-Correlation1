@@ -1,0 +1,15 @@
+Dataset: behav_lin.dat
+
+Source: M. Pinhas, J. Tzelgov, D. Ganor Stern (2011). "Estimating Linear
+Effects in ANOVA Designs: The Easy Way," Behavior Research Methods, online
+first, DOI 10.3758/s13248-011-0172-y
+
+Description: Response Times as a function of intrapair distance
+between numbers when subjects are asked to state which is larger.
+Can be fit as repeated measures ANOVA with linear trend or
+Random Coefficient Regression model.
+
+Variables/Columns
+Subject    8
+Intrapair distance   16
+Response Time    18-24

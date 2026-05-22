@@ -1,0 +1,18 @@
+Dataset:  breath_reg.dat
+
+Source: R.G. Gullberg (1995). "Repeatability of Replicate Breath Alcohol
+Measurements Collected in Short Time Intervals," Science & Justice,
+Vol. 35, #1, pp 5-9
+
+
+Description: Results of 10 measurements each of blood alcohol on each
+of 9 subjects. Author fit simple linear regression on time for each subject.
+Data simulated to match results.
+
+Variables/Columns
+Subject   8
+male dummy    16
+Time       23-24
+Blood alcohol concentration    26-32
+Subject mean bac    34-40
+subject centered bac   42-48

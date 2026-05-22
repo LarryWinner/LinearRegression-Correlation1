@@ -1,0 +1,46 @@
+Dataset:  cooked_rice.dat
+
+Source: B. Zhu, B. Li, X.D. Zheng, B.L. Xu, S. Liang, X. Kuang,
+and M.H. Ma (2010). "Study on Predictive Models Relating Physiochemical
+Properties to Texture of Cooked Rice and the Application in Rice Blends,"
+Journal of Texture Studies, Vol. 41, pp. 101-124
+
+Description: 9 Physiochemical properties (predictors) and 7 textural 
+measures (responses) for 30 rice cultivars
+Physiochemical Properties:
+Moisture Content (MC)
+Amylose Content (AC)
+Protein Content (Pro)
+Water Absorption Ratio  (WAR)
+Swelling Ratio (SR)
+pH
+Solids Content (SC)
+Blue Value (BV)
+Transparency (T)
+Textural Measures:
+Hardness (HRD)
+Adhesiveness  (ADH)
+Springiness  (SPR)
+Cohesiveness  (COH)
+Gumminess (GUM)
+Chewiness (CHW)
+Resilience (RES)
+
+Variables/Columns
+Cultivar    1-20
+MC         21-28
+AC         29-36
+Pro        37-44
+WAR        45-52
+SR         53-60
+pH         61-68
+SC         69-76
+BV         77-84
+T          85-92
+HRD        93-100
+ADH        101-108
+SPR        109-116
+COH        117-124
+GUM        125-132
+CHW        133-140
+RES        141-148

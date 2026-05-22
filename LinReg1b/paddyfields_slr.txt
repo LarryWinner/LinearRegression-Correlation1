@@ -1,0 +1,12 @@
+Dataset:  paddyfields_slr.dat
+
+Source: J. Chanying, P. Junzheng (1998). "Relationship Between Bearing 
+Capacity and Depth of Soft Layer of Paddy Fields in South China," 
+Journal of Terramechanics, Vol. 35, pp. 225-228
+
+Description: Bearing Capacity at 10cm depth measured by a penetrometer (Y)
+and depth of soft layer (X) in 51 samples of paddy fields.
+
+Vatiables/Columns
+Depth of soft layer (cm)   4-8
+Bearing Capacity  (kPa)    10-16

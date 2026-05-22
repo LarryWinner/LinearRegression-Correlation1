@@ -1,0 +1,34 @@
+Dataset: poker_probest.dat
+
+Source: J. Liley and T. Rakow (2010). "Probability Estimation in Poker: A
+Qualified Success for Unaided Judgment," Journal of Behavioral Decision
+Making, Vol. 23, pp. 496-526.
+
+Description: Results of probbability of winning estimates among
+poker players in Texas Hold-em under 3 timing conditions, 25 
+scenarios per condition.
+
+Conditions: 1=Pre-flop (player only knows his/her 2 personal cards)
+            2=Flop task (player knows his/her 2, plus first 3 community cards)
+            3=Jack/10 task (player sees his/her Jack/10 and first 3 comm cards)
+
+Study 1: Player sees all 25 scenarios per condition on single page, as well
+         as number of opponents   (Cued to be able to rank hands by comparing
+         the 25 scenarios, possibly)
+
+Study 3: Players see one hand at a time, unaware of number of opponents
+         (presumably more realistic). Only 25 total scenarios due to time
+
+Note: Goal will to be determining the relation between predicted winning
+      probability to actual winning probability.
+
+
+Variables/Columns
+Condition     8     /* see description above  */
+Starting hand index   15-16  /* Not used in analysis, just reference  */
+flop cards index   23-24  /* Not used in analysis, just reference  */
+number of opponents   32  /* Not used in analysis, just reference  */
+true probability of winning  36-40   /* Stated as percent  */
+Study 1 mean estimated probability of winning  44-48   /* percent  */
+Study 3 mean estimated probability of winning  52-56   /* percent (-1=N/A)  */
+

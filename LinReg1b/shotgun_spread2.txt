@@ -1,0 +1,20 @@
+Dataset:  shotgun_spread2.csv
+
+Source: I. Cakir, G. Cetin, H.B. Uner, E. Albek (2003)> "Shot Range Estimation Based
+on Pellet Distribution in Shots with a Pump-Action Shotgun," Forensic Science International,
+Vol. 132, pp. 211-215
+
+Description: Results of experiment measuring maximal vertical and horizontal
+spreads (mm) of pellets shot from a Hugsan (12/76 Magnum, 52 cm cylinder bored barrel)
+and cartridges (70mm) by MKE.
+Pellet Diameters (mm): 2, 3.5, 5, 8
+Shot Ranges (m): 0.7,0.8,0.9,1,2,3,5,10,15,20,25
+Regression models fit relating Vertical and Horizontal distances to Shot Range by pellet size
+5 Replicates per pellet size and shot range
+
+Variable Names:
+pellDiam
+shotRng
+shotID    (not used in analysis)
+vertDist
+horzdist

@@ -1,0 +1,17 @@
+Dataset:  scottish_recycle.dat
+
+Source: J. Baird, R. Curry, and T. Reid (2013). "Development and Application
+of a Multiple Linear Regression Model to Consider the Impact of Weekly
+Waste Container Capacity on the Yield from Kerbside Recycling Programs
+in Scotland," Waste Management & Research, Vol. 31, pp. 306-314
+
+Description: Recycling capacity, residual capacity, number of extended
+materials collected, and yield of extended materials collected for
+31 Scottish local authorities
+
+Variables/Columns
+Local Authority    1-25
+Recycling Capacity  (liters/week)  27-33
+Residual Capacity       "     "    35-41
+Number of extended materials collected  49
+Yield of extended materials  (kg/hh/wk)  51-57  

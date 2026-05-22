@@ -1,0 +1,25 @@
+Dataset:  police_height.dat
+
+Source: S.Q. Lafi and J.B. Kaneene (1992). "An Explanation of the Use
+of Principal-Components Analysis to Detect and Correct for Multicollinearity,"
+Preventive Veterinary Mediciine, Vol. 13, Issue 4, pp. 261-275.
+
+Description: Standing Height (Y) and multiple correlated predictors
+for a sample of 33 female police-department applicants.
+Predictors: Sitting height, upper arm length, forearm length,
+hand length, upper leg length, lower leg length, foot length,
+100*forearm/upper arm, 100*lower leg/upper leg
+Typos in published table have been corrected.
+
+Variables/Columns
+Applicant ID   7-8
+standing height (cm)  10-16
+sitting height (cm) 18-24
+upper arm (cm)  26-32
+forearm (cm)   34-40
+hand (cm)  42-48
+upper leg (cm)  50-56
+lower leg (cm)  58-64
+foot  (inches?)  66-72
+100(forearm/upper arm)   74-80 
+100(lower leg/upper leg)  82-88

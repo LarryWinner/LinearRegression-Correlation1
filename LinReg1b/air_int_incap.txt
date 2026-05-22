@@ -1,0 +1,30 @@
+Dataset: air_int_incap.dat
+
+Source: J.C. Spurgeon (1978). "The Correlation of animal response Data
+with the Yields of Selected Thermal Decomposition Products
+for Typical Aircraft Interior Materials," U.S. D.O.T. Report No. 
+FAA-RD-78-131.
+
+
+Description: Times to animal incapacitation after exposure to burning of 71
+aircraft interior materials and combustion yields of 7 gases:
+CO, HCN, H2S, HCL, HBR, NO2, SO2.
+Material Categories:
+1=Panels, 2=Components, 3=Foams, 4=Fabrics, 5=Coated Fabrics,
+6=Flooring, 7=Thermoplastics and Transparencies, 
+8=Elastometers, Insulation, and Cargo Liners
+Regression used 1000/(Time-to-incapacitation) as Y, and gas yields as X's
+
+Variables/Columns
+Material Category   8
+Material ID #   10-16
+Time-to-Incapacitation (min)  18-24
+1000/Time-to-Incapacitaion   26-32
+CO (mg/g)    34-40
+HCN  "       42-48
+H2S  "       50-56
+HCL  "       58-64
+HBr  "       66-72
+NO2  "       74-80
+SO2  "       82-88
+

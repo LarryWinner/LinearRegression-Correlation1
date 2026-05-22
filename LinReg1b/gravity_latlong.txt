@@ -1,0 +1,20 @@
+Dataset: gravity_latlong.dat
+
+Source: T.C. Mendenhall (1891). "Determinations of Gravity with the New
+Half-Second Pendulums of the Coast and Geodetic Survey at Stations on the
+Pacific Coast, in Alaska, and the Base Stations, Washington, D.C., and
+Hoboken, N.J.," Report of the Superintendent of the U.S. Coast and
+Geodetic Survey,
+Appendix No. 15-1891, pp. 503-564
+
+Description: Gravity (in Dynes) at station and reduced to sea level, based on 
+observations made by 3 half-second pendulums made at 13 stations
+in the U.S. and British Columbia in 1891.
+
+Variables/Columns:
+Station    1-20
+Latitude   21-28
+Longitude   29-36
+Sea Level   37-44
+Gravity (at station)  45-54
+Gravity (reduced to sea level)  55-64

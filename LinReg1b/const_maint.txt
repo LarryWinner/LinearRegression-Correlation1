@@ -1,0 +1,18 @@
+Dataset:  const_maint.dat
+
+Source: D.J. Edwards, G.D. Holt, F.C. Harris (2000). "A Comparative
+Analysis Between the Multilayer Perceptron "Neural Network" and Multiple
+Regression Analysis for Predicting Construction Plant Maintenance Costs,"
+Journal of Quality in Maintenance Engineering, Vol. 6, #1, pp. 45-61
+
+Description: Regression Analysis relating construction plant maintenance costs
+to: machine weight, and indicators attitude to used oil analysis,
+type of industry, and type of machine.
+
+Variables/Columns
+Machine ID   7-8
+Cost (pounds)  10-16
+Type of Industry    24    /* 1=opencast coal   0=opencast slate */
+Type of machine   32     /* 1=front shovel   0=backacter  */
+Company attitude to used oil analysis   40  /* 1=regular us   0=not  */
+Machine weight  (tonnes)  42-48

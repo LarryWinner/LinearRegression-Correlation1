@@ -1,0 +1,17 @@
+Dataset: fur_reg.dat
+
+Source: H.W. Pyszczyk (1989). "Consumption and Ethnicity: An Example from the 
+Fur Trade in Western Canada," Journal of Anthropological Archaeology,
+Vol. 8, pp. 213-249.
+
+Description: Artifact/luxury goods diversities as function of
+quantity, occupation length, ethnicity, and region for
+8 forts in Western Canada.
+
+Variables/Columns
+Total artifact diversity (# of types)  5-8
+Luxury goods diversity  (# of types)  13-16
+quantity of artifacts   20-24
+Occupation Length (years)  23-24
+Ethnicity   32  /* 1=Orkney,  0=French Canadian  */
+Region   40  /* 1=Sakatchewan, 0=Athabaska  */

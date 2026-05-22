@@ -1,0 +1,15 @@
+Dataset:  shotgun_spread.dat
+
+Source: W.F. Rowe and S.R. Hanson(1985). "Range-of-Fire Estimates from
+Regression Analysis Applied to the Spreads of Shotgun Pellets Patterns: Results
+of a Blind Study," Forensic Science International, Vol. 28, pp. 239-250
+
+Description: Results of an experiment relating the square root of the area
+spread of shotgun pellets to range of fire, for shotgun cartridge types.
+Residuals show heterogeneity, and can be analyzed by weighted least squares.
+
+Variables/Columns
+Cartridge     8    /* 1=Winchester Western Super X 00, 2=Remington No. 4  */
+Range (distance, in feet)   15-16
+Square root of spread (inches)    20-24
+Standard Deviation of sqrt(spread) for that range/cartridge type  26-32

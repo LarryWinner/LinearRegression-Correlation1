@@ -1,0 +1,14 @@
+Dataset:  cotton_spindle.dat
+
+Source: T. Leung (2003), "A British Industrial Success: Productivity in the
+Lancashire and New England Cotton Spinning Industries a Century Ago," 
+Economic History Review, LVI, 1, pp. 90-117.
+
+Description: Relationship between yarn count (low=coarse, high=fine)
+and output for New England Cotton spindles of types mule spinning and ring
+spinning. They fit models with y=output, x=1/count
+
+Variables/Columns
+Spinning type    8   /* 1=Mule, 2=Ring)
+Yarn count     12-16
+Output (lbs/week)  18-24
